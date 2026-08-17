@@ -15,10 +15,13 @@ This application gives you more control over your game progress and starting exp
 |---:|---|---|
 | 1 | ⭐ **Change Stars** | Adjust your Stars amount |
 | 2 | 💠 **Change Souls** | Modify your available Souls |
-| 3 | 👤 **Change Player Name** | Customize your in-game player name |
-| 4 | 🃏 **Choose a Starting Card** | Start with any card available in the game system |
-| 5 | 🔓 **Unlock All NPCs** | Unlock all currently available NPCs |
-| 6 | ⚡ **Change Game Speed** | Adjust game speed up to **10x** |
+| 3 | 🎟️ **Change Golden Tickets** | Modify your available Golden Tickets |
+| 4 | 🎫 **Change Tournament Tickets** | Modify your available Tournament Tickest |
+| 5 | 🎟️ **Change Standard Tickets** | Modify your available Standard Tickest |
+| 6 | 👤 **Change Player Name** | Customize your in-game player name |
+| 7 | 🃏 **Choose a Starting Card** | Start with any card available in the game system |
+| 8 | 🔓 **Unlock All NPCs** | Unlock all currently available NPCs |
+| 9 | ⚡ **Change Game Speed** | Adjust game speed up to **10x** |
 
 ## 🃏 Starter Deck — 40 Cards
 
