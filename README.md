@@ -1,0 +1,1 @@
+# Easy-Yugioh-Legacy-Tool
